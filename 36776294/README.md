@@ -1,6 +1,7 @@
 # Slow Unarchive Without Secure Coding in Simulator
 
-[Radar](rdar://36776294)
+rdar://36776294
+
 [OpenRadar](http://openradar.appspot.com/radar?id=5038858769006592)
 
 ## Summary:
