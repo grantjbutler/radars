@@ -1,6 +1,7 @@
 # Xcode Cannot Generate Documentation Comments for Failable Swift Initializers
 
 rdar://36876446
+
 [OpenRadar](https://openradar.appspot.com/radar?id=4976090170785792)
 
 ## Summary:
