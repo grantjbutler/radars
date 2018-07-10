@@ -20,4 +20,4 @@ A repository to collect radars I've filed, complete with sample code (if applica
 
 [open]: https://img.shields.io/badge/status-open-blue.svg
 [closed]: https://img.shields.io/badge/status-closed-lightgrey.svg
-[duplicate]: https://img.shields.io/badge/status-dupelication-9900CB.svg
+[duplicate]: https://img.shields.io/badge/status-duplicate-9900CB.svg
