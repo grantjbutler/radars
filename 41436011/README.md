@@ -2,7 +2,7 @@
 
 rdar://41436011
 
-[OpenRadar]()
+[OpenRadar](https://openradar.appspot.com/radar?id=4983181564444672)
 
 ## Summary:
 When a scheme for an application is set to wait to attach the debugger until the executable is launched, any code changes (and maybe other changes, such as changes to Interface Builder files or assets, but I haven't checked those) are not deployed to the destination.
