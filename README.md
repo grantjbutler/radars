@@ -11,6 +11,10 @@ A repository to collect radars I've filed, complete with sample code (if applica
 
 ## iOS + SDK
 
+### Core Data
+
+- ![][open] [42826517 - Add performAndWait Swift Variant that Throws and Returns a Value](42826517/)
+
 ### Foundation
 
 - ![][open] [39871638 - Crash when Decoding CGFloat in Swift](39871638)
