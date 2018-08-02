@@ -7,6 +7,7 @@ A repository to collect radars I've filed, complete with sample code (if applica
 - ![][closed] [36776294 - Slow Unarchive Without Secure Coding in Simulator](36776294/)
 - ![][closed] [36876446 - Xcode Cannot Generate Documentation Comments for Failable Swift Initializers](36876446/)
 - ![][duplicate] [41436011 - Build & Run While Waiting to Attach the Debugger Does Not Redeploy an Application](41436011/)
+- ![][open] [42442333 - FileManager.currentDirectoryPath Can Return nil, Not Annotated as an Optional](42442333/)
 
 ## iOS + SDK
 
