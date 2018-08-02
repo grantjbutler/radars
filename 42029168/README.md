@@ -2,7 +2,7 @@
 
 rdar://42029168
 
-[OpenRadar]()
+[OpenRadar](https://openradar.appspot.com/radar?id=5023293497147392)
 
 ## Area:
 UIKit
@@ -25,4 +25,3 @@ The prompt and title of the detail view controller just appear.
 
 ## Version/Build:
 iOS 12.0 (16A5318d)
-
